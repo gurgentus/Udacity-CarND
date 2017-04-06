@@ -1,5 +1,7 @@
 # Udacity-CarND
-Completed Projects for Udacity Self-Driving Car Engineer Nanodegree (machine learning, computer vision, sensor fusion, ...)
+## Completed Projects for Udacity Self-Driving Car Engineer Nanodegree 
+
+### (machine learning, computer vision, sensor fusion)
 
 [Behavior Cloning (Using Deep Learning to Clone Driving Behavior)](https://github.com/gurgentus/CarND-Behavioral-Cloning-P3)
 
