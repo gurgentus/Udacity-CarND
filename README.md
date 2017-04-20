@@ -11,3 +11,5 @@
 
 [Extended Kalman Filter (Track an Object from LIDAR and RADAR data using Kalman and Extended Kalman filters)](https://github.com/gurgentus/CarND-Extended-Kalman-Filter-Project)
 
+[Unscented Kalman Filter (Track an Object from LIDAR and RADAR data using an Unscented Kalman filter)](https://github.com/gurgentus/CarND-Unscented-Kalman-Filter-Project)
+
