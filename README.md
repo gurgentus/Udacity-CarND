@@ -13,3 +13,4 @@
 
 [Unscented Kalman Filter (Track an Object from LIDAR and RADAR data using an Unscented Kalman filter)](https://github.com/gurgentus/CarND-Unscented-Kalman-Filter-Project)
 
+[Model Predictive Control](https://github.com/gurgentus/CarND-MPC-Project)
