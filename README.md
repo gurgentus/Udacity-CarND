@@ -1,5 +1,5 @@
 # Udacity-CarND
-## Completed Projects for Udacity Self-Driving Car Engineer Nanodegree 
+## Selection of Completed Projects for Udacity Self-Driving Car Engineer Nanodegree 
 
 ### (machine learning, computer vision, sensor fusion)
 
